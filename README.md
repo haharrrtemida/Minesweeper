@@ -10,6 +10,7 @@ The user enters a command according to the template:
 
 ## Actions:
 ```open``` - open a cell
+
 ```flag``` - mark a cell as flag
 
 ### For example:
